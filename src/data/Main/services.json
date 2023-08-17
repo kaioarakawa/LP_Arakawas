@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "image": "assets/imgs/serv-icons/0.png",
+      "title": "Website/App Design",
+      "features": [
+        "Interface amigável",
+        "Adaptação a Diferentes Plataformas",
+        "Reforço da Identidade da Marca"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "assets/imgs/serv-icons/1.png",
+      "title": "Desenvolvimento de Projetos/Software",
+      "features": [
+        "Equipe altamente qualificada e certificada",
+        "Estruturação de aplicações de ponta",
+        "Gerência de projeto dedicada"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "assets/imgs/serv-icons/2.png",
+      "title": "Consultoria e Body Shop",
+      "features": [
+        "Capacitação técnica de acordo com a demanda",
+        "Alta performance nas funções contratadas",
+        "Alternativa para contornar transbordos de demanda, evitando aumento da equipe interna"
+      ]
+    }
+  ]

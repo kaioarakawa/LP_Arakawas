@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/main/stacks/dev.jpg",
+    "number": "01.",
+    "type": "Linguagens",
+    "title": "Linguagens",
+    "text": "Essas são algumas das linguagens utilizadas por nossa equipe",
+    "stacks" : [
+      {
+      "icon" : "assets/imgs/c-sharp.png",
+      "text" : "C#"
+      },
+      {
+        "icon" : "assets/imgs/css-3.png",
+        "text" : "CSS"
+      },
+      {
+        "icon" : "assets/imgs/html.png",
+        "text" : "HTML"
+      },
+      {
+        "icon" : "assets/imgs/js.png",
+        "text" : "JavaScript"
+      },
+      {
+        "icon" : "assets/imgs/json-file.png",
+        "text" : "JSON"
+      },
+      {
+        "icon" : "assets/imgs/sass.png",
+        "text" : "Sass"
+      },
+      {
+        "icon" : "assets/imgs/postgre.png",
+        "text" : "Postgre"
+      },
+      {
+        "icon" : "assets/imgs/sql-server.png",
+        "text" : "Sql Server"
+      },
+      {
+        "icon" : "assets/imgs/xml-file-format-symbol.png",
+        "text" : "XML"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/main/stacks/no_bad_days.jpg",
+    "number": "02.",
+    "type": "Frameworks",
+    "title": "Frameworks",
+    "text": "Esses são alguns frameworks utilizados pela nossa equipe",
+    "stacks" : [
+      {
+      "icon" : "assets/imgs/bootstrap.png",
+      "text" : "Bootstrap"
+      },
+      {
+        "icon" : "assets/imgs/material-ui.png",
+        "text" : "Material UI"
+      },
+      {
+        "icon" : "assets/imgs/vuejs.png",
+        "text" : "Vue.js"
+      },
+      {
+        "icon" : "assets/imgs/atom.png",
+        "text" : "React.js"
+      },
+      {
+        "icon" : "assets/imgs/nodejs.png",
+        "text" : "Node.js"
+      },
+      {
+        "icon" : "assets/imgs/NET_Core.png",
+        "text" : ".NET"
+      },
+      {
+        "icon" : "assets/imgs/nextjs.png",
+        "text" : "NextJs"
+      }
+    ]
+    
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/main/stacks/script.jpg",
+    "number": "03.",
+    "type": "Ferramentas",
+    "title": "Ferramentas",
+    "text": "Essas são algumas das ferramentas utilizadas por nossa equipe",
+    "stacks" : [
+      {
+      "icon" : "assets/imgs/docker.png",
+      "text" : "Docker"
+      },
+      {
+        "icon" : "assets/imgs/eslint.png",
+        "text" : "ESLint"
+      },
+      {
+        "icon" : "assets/imgs/figma.png",
+        "text" : "Figma"
+      },
+      {
+        "icon" : "assets/imgs/firebase.png",
+        "text" : "Firebase"
+      },
+      {
+        "icon" : "assets/imgs/analytics.png",
+        "text" : "Google Analytics"
+      },
+      {
+        "icon" : "assets/imgs/npm.png",
+        "text" : "Npm"
+      },
+      {
+        "icon" : "assets/imgs/postman.png",
+        "text" : "Postman"
+      },
+      {
+        "icon" : "assets/imgs/vscode.png",
+        "text" : "Visual Studio Code"
+      },
+      {
+        "icon" : "assets/imgs/ssms.png",
+        "text" : "SQL Studio"
+      }
+    ]
+  }
+]

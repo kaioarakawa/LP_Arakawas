@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/services/solar_on.png",
+    "tag": "Desenvolvimento",
+    "title": "Novas funcionalidades",
+    "date": 2023
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/services/solar_off.png",
+    "tag": "Consultoria e Desenvolvimento",
+    "title": "Novas funcionalidades",
+    "date": 2023
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/services/hero_phone.jpg",
+    "tag": "Mobile Software",
+    "title": "Novas funcionalidades",
+    "date": 2023
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/services/fazenda_sakura.png",
+    "tag": "Web Design e Desenvolvimento",
+    "title": "Digital Platform",
+    "date": 2023
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Escopo e estimativa",
+    "text": "Trabalhamos com você para entender como seu negócio funciona",
+    "number": "01"
+  },
+  {
+    "id": 2,
+    "title": "Design/Desenvolvimento",
+    "text": "Desenvolvimento da sua sonhada aplicação e comunicação constante",
+    "number": "02"
+  },
+  {
+    "id": 3,
+    "title": "Lançamento do Produto",
+    "text": "Depois do desenvolvimento e teste, cuidamos da implantação do mesmo",
+    "number": "03"
+  },
+  {
+    "id": 4,
+    "title": "Suporte",
+    "text": "Estamos pronto para ajudar caso precise de manutenção ou suporte.",
+    "number": "04"
+  }
+]
